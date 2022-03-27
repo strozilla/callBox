@@ -1,5 +1,5 @@
 ---
-permalink: /index.html
+permalink: /staff_page.html
 ---
 
 # CallBox assignment
