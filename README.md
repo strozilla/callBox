@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # CallBox assignment
 
 I used a combination of html, css and javascript to build/design several components.
