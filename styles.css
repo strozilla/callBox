@@ -351,3 +351,13 @@ h3 {
     text-align: left;
   }
 }
+
+/******ARRAY BORDER*******/
+
+.arrays {
+  border: 3px solid black;
+}
+.arrays p {
+  text-align: left;
+  margin-left: 35%;
+}
