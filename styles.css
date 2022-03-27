@@ -220,6 +220,10 @@ h3 {
   right: 2em !important;
 }
 
+button a {
+  color: #fff;
+}
+
 
 .fade {
   animation-name: fade;
